@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, BERT, NLP, HMTL, CSS, JS, OOP.**
 
-- 📫 How to reach me through [contact](https://nimakamali.com/aerial/index.html) or find me on [links.](nimakamali.com/links.htmL)
+- 📫 How to reach me through [contact](https://nimakamali.com/aerial/index.html) or find me on [links.](https://nimakamali.com/links.htmL)
 
 - 📄 Know about my experiences [on my CV](https://nimakamali.com/assets/PDF/NimaKamaliLassem_Resume_10.10.2022.pdf).
 
